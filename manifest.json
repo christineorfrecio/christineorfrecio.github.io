@@ -1,0 +1,17 @@
+{
+    "name": "tine",
+    "short_name": "tine",
+    "start_url": ".",
+    "dispaly": "standalone",
+    "theme_color": "red",
+    "background_color": "blue",
+    "description": "orfrecio",
+    "icons": {
+        "src": "images/images/icon-192-maskable.png",
+        "sizes": "192x192",
+        "type": "images/png"
+
+        
+    }
+
+}
