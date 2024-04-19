@@ -2,7 +2,7 @@
     "name": "tine",
     "short_name": "tine",
     "start_url": ".",
-    "dispaly": "standalone",
+    "display": "standalone",
     "theme_color": "red",
     "background_color": "blue",
     "description": "orfrecio",
