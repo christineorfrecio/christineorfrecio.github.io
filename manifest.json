@@ -6,6 +6,7 @@
         "theme_color": "red",
         "background_color": "blue",
         "description": "orfrecio",
+        "serviceworker": "serviceworker.js",
         "icons": [
           {
             "src": "images/icon-512.png",
