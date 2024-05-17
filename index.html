@@ -10,5 +10,11 @@
 <body>
     <h1>welcome to my app</h1>
     <p>by christineorfrecio</p>
+
+    <script>
+        if("serviceWorker" in navigator){
+            navigator.serviceWorker.register("serviceworker.js");
+        }
+    </script>
 </body>
 </html>
